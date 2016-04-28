@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PlayerTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2016-04-28T23:41:35" hostname="epicodus-117.local" time="0.001">
+  <properties/>
+  <testcase name="fourOfKind_addToScoreAndRemoveFromHand_true" classname="PlayerTest" time="0.0"/>
+  <testcase name="addToHand_addsToHand_true" classname="PlayerTest" time="0.0"/>
+  <testcase name="checkIfInHand_checksIfCardIsInHand_true" classname="PlayerTest" time="0.0"/>
+  <testcase name="removeFromHand_takesCardOut_true" classname="PlayerTest" time="0.0"/>
+  <testcase name="Player_instantiatesCorrectly_true" classname="PlayerTest" time="0.0"/>
+  <system-out><![CDATA[8 spades
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
